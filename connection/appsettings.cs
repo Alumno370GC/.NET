@@ -2,6 +2,7 @@
 
 
 hoola
-
+//
+string connectionString = "Server=localhost;Database=MiBaseDeDatosLocal;Trusted_Connection=True;";
 
 */
